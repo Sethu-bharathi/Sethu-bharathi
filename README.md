@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m Sethubharathi</h2>
+<h2> Hello,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">  I’m Sethubharathi</h2>
 
 - 👀 I’m interested in ...App development,web development
 - 🌱 I’m currently learning ... React,Machine learning

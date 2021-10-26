@@ -1,4 +1,5 @@
 <h2> Hello,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="23px">  I’m Sethubharathi</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sethu-bharathi&label=Profile%20views&color=0e75b6&style=flat" alt="Sethubharathi" /> </p>
 
 - 👀 I’m interested in ...App development,web development
 - 🌱 I’m currently learning ... React,Machine learning

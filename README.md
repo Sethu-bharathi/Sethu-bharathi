@@ -7,6 +7,7 @@
 - 📫 How to reach me ...mail @ bharathisethu018@gmail.com
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sethu-bharathi&show_icons=true&locale=en&layout=compact" alt="naveenkumarmd" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sethu-bharathi&show_icons=true&locale=en&layout=compact" alt="Sethubharathi" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sethu-bharathi&" alt="naveenkumarmd" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sethu-bharathi&" alt="Sethubharathi B" />
+<img src="https://leetcode-stats.vercel.app/api?username=Sethu_&theme=Light" />
